@@ -30,6 +30,7 @@ The technologies that I use to complete my work are:
   <li><b>data/ Raw data/</b>: This folder holds the original, unprocessed datasets as received, serving as the source data for  project.</li>
   <li><b>Presenting Key Insight.pptx</b>: A PowerPoint presentation summarizing the critical insights derived from our data analysis, tailored for client communication.</li>
 </ul>
+
 # Tasks
 
 In this Virtual Internship, I work on the the following tasks: 
