@@ -26,9 +26,9 @@ The technologies that I use to complete my work are:
 
 # File Structure: 
 <ul>
-  <li><b>cleaned Data/</b>b>: This directory contains datasets that have been processed, cleaned and analysis.</li>
-  <li><b>data/ Raw data/</b>b>: This folder holds the original, unprocessed datasets as received, serving as the source data for  project.</li>
-  <li><b>Presenting Key Insight.pptx</b>b>: A PowerPoint presentation summarizing the critical insights derived from our data analysis, tailored for client communication.</li>
+  <li><b>cleaned Data/</b>: This directory contains datasets that have been processed, cleaned and analysis.</li>
+  <li><b>data/ Raw data/</b>: This folder holds the original, unprocessed datasets as received, serving as the source data for  project.</li>
+  <li><b>Presenting Key Insight.pptx</b>: A PowerPoint presentation summarizing the critical insights derived from our data analysis, tailored for client communication.</li>
 </ul>
 # Tasks
 
