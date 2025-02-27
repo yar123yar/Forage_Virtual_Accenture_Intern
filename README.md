@@ -24,6 +24,12 @@ The technologies that I use to complete my work are:
   <li>Microsoft PPT</li>
 </ul>
 
+# File Structure: 
+<ul>
+  <li>cleaned Data/: This directory contains datasets that have been processed, cleaned and analysis.</li>
+  <li>data/ Raw data/: This folder holds the original, unprocessed datasets as received, serving as the source data for your project.</li>
+  <li>Presenting Key Insight.pptx: A PowerPoint presentation summarizing the critical insights derived from your data analysis, tailored for client communication.</li>
+</ul>
 # Tasks
 
 In this Virtual Internship, I work on the the following tasks: 
