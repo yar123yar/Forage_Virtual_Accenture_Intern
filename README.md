@@ -18,6 +18,12 @@ Some key facts about this program:
 <li>Team has been assigned a new project for a client called <b>Social Buzz</b>.</li>
 </ul>
 
+The technologies that I use to complete my work are:
+<ul>
+  <li>Microsoft Excel</li>
+  <li>Microsoft PPT</li>
+</ul>
+
 # Tasks
 
 In this Virtual Internship, I work on the the following tasks: 
