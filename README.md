@@ -5,10 +5,10 @@ I completed the Accenture North America Data Analytics Virtual Experience throug
 
 During this internship, I worked on:
 <ul>
-<li>✅ Understanding client business problems and defining key objectives.</li>
-<li>✅ Performing data cleaning, exploration, and visualization.</li>
-<li>✅ Extracting meaningful insights to drive data-driven decision-making.</li>
-<li>✅ Presenting findings in a structured, impactful manner.</li>
+<li>Understanding client business problems and defining key objectives.</li>
+<li>Performing data cleaning, exploration, and visualization.</li>
+<li>Extracting meaningful insights to drive data-driven decision-making.</li>
+<li>Presenting findings in a structured, impactful manner.</li>
 </ul>
 
 Some key facts about this program:
