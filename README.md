@@ -1,7 +1,7 @@
 # Forage_Virtual_Accenture_Intern
 
 Accenture North America Virtual Internship – Data Analytics
-I completed the Accenture North America Data Analytics Virtual Experience through Forage, where I gained hands-on experience in how data analysts at Accenture work on real-world business problems.
+I completed the Accenture North America Data Analytics Virtual Experience through Forage, where I gained experience in how data analysts at Accenture work on real-world business problems.
 
 During this internship, I worked on:
 <ul>
